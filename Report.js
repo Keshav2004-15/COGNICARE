@@ -8,12 +8,12 @@ import { FaArrowLeft } from 'react-icons/fa';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "api key of firebase",
-  authDomain: "cognicare-4d301.firebaseapp.com",
-  projectId: "cognicare-4d301",
-  storageBucket: "cognicare-4d301.appspot.com",
-  messagingSenderId: "1043867369648",
-  appId: "1:1043867369648:web:aaade00d5cefb1009e3b75"
+
+Cant be exposed to public
+
+
+
+  
 };
 
 // Initialize Firebase
@@ -1105,4 +1105,5 @@ function Report() {
 }
 
 export default Report;
+
 
